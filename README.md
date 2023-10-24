@@ -1,2 +1,3 @@
 # flask-openWeather
-basic weather app using flask
+A basic Web App that shows weather using OpenWeather.
+https://openweatherapi.onrender.com
